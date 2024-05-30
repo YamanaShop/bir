@@ -1,8 +1,4 @@
-github.com/YamanaShop/hunde v0.0.0-20240530192531-30f2a3c5f504 h1:eYZxEv3pTprX6mxCvgLEBVwflBsDdJeCckxwmbkM6O4=
-github.com/YamanaShop/hunde v0.0.0-20240530192531-30f2a3c5f504/go.mod h1:mX0gQHtf313f3ZMmvGlrrOnYI29upeUjEMs87JgYeKE=
 github.com/YamanaShop/hunde v0.0.0-20240530195053-a4c3da2587e9 h1:niCH04m2dk5uPn/VegrOcSw7BkaWFgUMPzSd4kT+X3I=
 github.com/YamanaShop/hunde v0.0.0-20240530195053-a4c3da2587e9/go.mod h1:mX0gQHtf313f3ZMmvGlrrOnYI29upeUjEMs87JgYeKE=
-github.com/YamanaShop/welpen v0.0.0-20240530195850-5dfe9bdb8c47 h1:xBN08TmhVsyfaMyg/UmmrEuVSjuRStaGCcqvqe4vB/Y=
-github.com/YamanaShop/welpen v0.0.0-20240530195850-5dfe9bdb8c47/go.mod h1:e+o8p4EXxiPmkyvSits49bBnuLoAE4vGnxz9uHYSkeQ=
-github.com/YamanaShop/welpen v0.0.0-20240530201840-e08942ee3930 h1:1qoG1vMnk8n7XrOm6L59DJab8oRjqha+u8ErSNN7EMQ=
-github.com/YamanaShop/welpen v0.0.0-20240530201840-e08942ee3930/go.mod h1:deAItLoprxmNmgERCltuCVlT87VTDom2TCkJYetLky0=
+github.com/YamanaShop/welpen v1.1.0 h1:B2oLYe3XdFlFNsZ0IiVsEX34NqXAbvjUKbMn0Yjmafs=
+github.com/YamanaShop/welpen v1.1.0/go.mod h1:deAItLoprxmNmgERCltuCVlT87VTDom2TCkJYetLky0=
