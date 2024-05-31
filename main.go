@@ -16,5 +16,5 @@ func main() {
 	fmt.Println(welpen.BigBark())
 	fmt.Println(welpen.BigBarks())
 	fmt.Println(welpen.BigBarks())
-	fmt.Println(welpen.From11())
+	fmt.Println(welpen.From12())
 }
